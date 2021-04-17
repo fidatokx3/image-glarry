@@ -1,0 +1,109 @@
+<!-- Gallery -->
+ <!-- For demo purpose -->
+ <div class="row py-5">
+  <div class="col-lg-12 mx-auto">
+    <div class="text-white p-5 shadow-sm rounded banner1">
+      <h1 class="display-4">Graphic Design  gallery</h1>
+      <p class="lead">Photo Editing | Logo Design | Banner Design | Photo Manupulation </p>
+      <a href="https://www.fiverr.com/share/1bmm44" class="text-reset"> <button class="order1"><p class="lead">Buy On Fiverr <i class="fas fa-cart-plus"></i></button>
+                    Order On Fiverr</a>, Our Main Site   <a href="https://fidatok.com" class="text-reset">Fidatok Foundation</a>.
+      </p>
+    </div>
+  </div>
+</div>
+    <!--end-->
+ 
+<div class="row">
+  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+    <img
+    src="img/01.jpg"      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""/>
+      <!-- imag e1-->
+      <div class="p-4">
+        <h5> <a href="#" class="text-dark">Blorange</a></h5>
+        <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+        <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
+          <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">PNG</span></p>
+          <a href="graphic.html"><div class="badge badge-primary px-3 rounded-pill font-weight-normal">Explore More</div></a>
+        </div>
+      </div>
+
+      <!-- image 1-->
+    <img
+    src="img/2.jpg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+    <div class="p-4">
+      <h5> <a href="#" class="text-dark">Blorange</a></h5>
+      <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+      <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
+        <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">PNG</span></p>
+        <a href="graphic.html"><div class="badge badge-primary px-3 rounded-pill font-weight-normal">Explore More</div></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 mb-4 mb-lg-0">
+    <img
+    src="img/02.jpg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+    <div class="p-4">
+      <h5> <a href="#" class="text-dark">graphic dg</a></h5>
+      <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+      <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
+        <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">PNG</span></p>
+        <a href="graphic.html"><div class="badge badge-primary px-3 rounded-pill font-weight-normal">Explore More</div></a>
+      </div>
+    </div>
+    <img
+    src="img/5.jpg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+    <div class="p-4">
+      <h5> <a href="#" class="text-dark">Blorange</a></h5>
+      <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+      <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
+        <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">PNG</span></p>
+        <a href="graphic.html"><div class="badge badge-primary px-3 rounded-pill font-weight-normal">Explore More</div></a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="col-lg-4 mb-4 mb-lg-0">
+    <img
+    src="img/3.jpg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+    <div class="p-4">
+      <h5> <a href="#" class="text-dark">Red paint cup</a></h5>
+      <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+      <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
+        <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPG</span></p>
+        <a href="graphic.html"><div class="badge badge-primary px-3 rounded-pill font-weight-normal">Explore More</div></a>
+      </div>
+    </div>
+    <img
+    src="img/4.jpg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt=""
+    />
+    <div class="p-4">
+      <h5> <a href="#" class="text-dark">Red paint cup</a></h5>
+      <p class="small text-muted mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+      <div class="d-flex align-items-center justify-content-between rounded-pill bg-light px-3 py-2 mt-4">
+        <p class="small mb-0"><i class="fa fa-picture-o mr-2"></i><span class="font-weight-bold">JPG</span></p>
+        <a href="graphic.html"><div class="badge badge-primary px-3 rounded-pill font-weight-normal">Explore More</div></a>
+      </div>
+    </div>
+
+  </div>
+</div>
+<!-- Gallery -->
+
+<!--  work  sample End  -->
